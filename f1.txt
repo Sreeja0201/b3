@@ -2,3 +2,4 @@ Hi!!
 How are you?
 Welcome to Git Bash
 This is KMIT
+Hi guys
